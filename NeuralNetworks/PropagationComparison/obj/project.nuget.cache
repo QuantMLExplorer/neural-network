@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpwFOXQWbqfbYZLt1hTxqh14Mcsksc6t7Qj/GSYeW+zXJVb6OA6kKdlQy2j05EPNMnHLyV1Oz4HU5qQHUUxakw==",
+  "success": true,
+  "projectFilePath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/PropagationComparison.csproj",
+  "expectedPackageFiles": [
+    "/home/doumana/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

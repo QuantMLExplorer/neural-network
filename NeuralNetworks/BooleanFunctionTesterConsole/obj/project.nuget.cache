@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZg9maeVZV11OHZca42JygDZaSk+90cbe97gCkeTptiA/PSLamjhlDjQ7o68AWlsdXfR2RS9O3tJvAtCPbfbOw==",
+  "success": true,
+  "projectFilePath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/BooleanFunctionTesterConsole/BooleanFunctionTesterConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/doumana/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqI8JFncCNNh+rpbA0EbDFCCBmPHzHjZXxVB7MZxCGkcVz3OJXJVNzwtlUYuoqbYJqt21uRIMpDeDgzEcB7tQg==",
+  "success": true,
+  "projectFilePath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/doumana/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/home/doumana/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

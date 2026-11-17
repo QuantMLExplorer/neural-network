@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/PropagationComparison.csproj": {}
+  },
+  "projects": {
+    "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj",
+        "projectName": "NeuralNetwork.Common",
+        "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj",
+        "packagesPath": "/home/doumana/.nuget/packages/",
+        "outputPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/doumana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/247/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/NeuralNetwork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/NeuralNetwork.csproj",
+        "projectName": "NeuralNetwork",
+        "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/NeuralNetwork.csproj",
+        "packagesPath": "/home/doumana/.nuget/packages/",
+        "outputPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/doumana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj": {
+                "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/247/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/PropagationComparison.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/PropagationComparison.csproj",
+        "projectName": "PropagationComparison",
+        "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/PropagationComparison.csproj",
+        "packagesPath": "/home/doumana/.nuget/packages/",
+        "outputPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/PropagationComparison/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/doumana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj": {
+                "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/NeuralNetwork.Common.csproj"
+              },
+              "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/NeuralNetwork.csproj": {
+                "projectPath": "/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/NeuralNetwork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/247/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

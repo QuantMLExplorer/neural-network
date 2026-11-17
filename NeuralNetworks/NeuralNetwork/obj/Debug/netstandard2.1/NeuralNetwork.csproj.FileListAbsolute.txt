@@ -1,0 +1,13 @@
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/bin/Debug/netstandard2.1/NeuralNetwork.deps.json
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/bin/Debug/netstandard2.1/NeuralNetwork.dll
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/bin/Debug/netstandard2.1/NeuralNetwork.pdb
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/bin/Debug/netstandard2.1/NeuralNetwork.Common.dll
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/bin/Debug/netstandard2.1/NeuralNetwork.Common.pdb
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.csproj.AssemblyReference.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.AssemblyInfoInputs.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.AssemblyInfo.cs
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.csproj.CoreCompileInputs.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.csproj.CopyComplete
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.dll
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork/obj/Debug/netstandard2.1/NeuralNetwork.pdb

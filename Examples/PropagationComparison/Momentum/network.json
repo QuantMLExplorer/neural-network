@@ -1,0 +1,25 @@
+{
+	"BatchSize": 1,
+	"SerializedLayers": [
+		{
+			"Bias": [
+				0.0
+			],
+			"Weights": [
+				[
+					3.0
+				],
+				[
+					4.0
+				]
+			],
+			"ActivatorType": "ReLU",
+			"GradientAdjustmentParameters": {
+				"LearningRate": 0.1,
+				"Momentum":0.9,
+				"Type": "Momentum"
+			},
+			"Type": "Standard"
+		}
+	]
+}

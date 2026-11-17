@@ -1,0 +1,10 @@
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/bin/Debug/netstandard2.1/NeuralNetwork.Common.deps.json
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/bin/Debug/netstandard2.1/NeuralNetwork.Common.dll
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/bin/Debug/netstandard2.1/NeuralNetwork.Common.pdb
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.csproj.AssemblyReference.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.AssemblyInfoInputs.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.AssemblyInfo.cs
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.csproj.CoreCompileInputs.cache
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.dll
+/home/doumana/Desktop/projets/dl-pricer-master(1)/dl-pricer-master/ensimag-dl-pricing/NeuralNetworks/NeuralNetwork.Common/obj/Debug/netstandard2.1/NeuralNetwork.Common.pdb
